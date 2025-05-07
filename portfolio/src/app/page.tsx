@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <Head>
         <title>{"Kevin Ng | Full-Stack Developer"}</title>
-        <meta name="description" content="Personal portfolio of Kevin Ng, a full-stack developer with specialization in React, React Native, Typescript, AWS, and other modern web technologies" />
+        <meta name="description" content="Personal portfolio of Kevin Ng, a full-stack developer with specialization in React, React Native, Typescript, AWS, and other modern technologies" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
